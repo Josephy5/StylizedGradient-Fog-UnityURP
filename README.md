@@ -20,6 +20,8 @@ You can refer to the effect's documentation for more info (should be in the repo
 ## Example[s]
 ![Fog](https://github.com/user-attachments/assets/48e341d1-7dde-493d-87c2-0081d917a79a)
 Multi Fog Effect (using 5 Seperate Color Inputs)
+<br>
+<br>
 ![image](https://github.com/user-attachments/assets/c0ad7aac-7531-4571-aa63-e40ef5504900)
 Multi Fog Effect (using a gradient texture)
 
