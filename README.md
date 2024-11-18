@@ -1,6 +1,6 @@
 ![Fog](https://github.com/user-attachments/assets/47c901e4-3478-4e8d-96be-228a8f614934)
 
-# Gradient-Based Stylized Fog Post Processing
+# Gradient-Based Stylized Fog Effect Post Processing
 ![Unity Version](https://img.shields.io/badge/Unity-6000.0.27%27LTS%2B-blueviolet?logo=unity)
 ![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_❌-darkgreen?logo=unity)
 ![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)
@@ -15,7 +15,10 @@ You can refer to the effect's documentation for more info (should be in the repo
 - Can use 5 seperate color inputs or a gradient texture for the fog colors
 - Can adjust overall fog intensity and additional fog intensity for different distance related parts of the fog
 - Support for Unity 6
-- Includes some optional scripts by LKHGames to create Gradient Textures for the effect (the repo inlcudes a gradient texture as a demostration example)
+- Inlcudes a gradient texture as a demostration example
+
+To create gradient textures, you can refer to LKHGames's Unity shader graph exposed gradient | Gradient texture generator Youtube Video [YouTube Video Link](https://www.youtube.com/watch?v=YDT9s3nNVj0).
+You can download his scripts and use it to generate a gradient texture for you to use in the effect.
 
 ## Example[s]
 ![Fog](https://github.com/user-attachments/assets/48e341d1-7dde-493d-87c2-0081d917a79a)
