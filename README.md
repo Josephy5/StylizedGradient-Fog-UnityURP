@@ -23,6 +23,7 @@ Multi Fog Effect (using 5 Seperate Color Inputs)
 <br>
 <br>
 ![image](https://github.com/user-attachments/assets/c0ad7aac-7531-4571-aa63-e40ef5504900)
+<br>
 Multi Fog Effect (using a gradient texture)
 
 ## Installation
