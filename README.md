@@ -22,12 +22,12 @@ You can download his scripts and use it to generate a gradient texture for you t
 
 ## Example[s]
 ![Fog](https://github.com/user-attachments/assets/48e341d1-7dde-493d-87c2-0081d917a79a)
-Multi Fog Effect (using 5 Seperate Color Inputs)
+The Fog Effect (using 5 Seperate Color Inputs)
 <br>
 <br>
 ![image](https://github.com/user-attachments/assets/c0ad7aac-7531-4571-aa63-e40ef5504900)
 <br>
-Multi Fog Effect (using a gradient texture)
+The Fog Effect (using a gradient texture)
 
 ## Installation
 1. Clone repo or download the folder and load it into an unity project.
